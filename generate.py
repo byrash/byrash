@@ -16,10 +16,9 @@ f.write(f'''
 
 - 🏢 I'm currently working at **A great company :)**
 - ⚙️ I use daily: `AWS`,  `Java`,  `Go lang`,  `React`, `Angular`,  `Python` &  `Few more ...`
-- 🌍 I'm mostly active within the **Dev Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌍 I'm mostly active within the **AWS,  Architecture & Dev Community**
 - 💬 Ping me about **Architecture**, **Clean code**,  **Development**, **Design thinking**
-- 📫 Reach me: [mailto:shivaji.byrapaneni@gmail.com](shivaji.byrapaneni@gmail.com)
+- 📫 Reach me: [shivaji.byrapaneni@gmail.com](mailto:shivaji.byrapaneni@gmail.com)
 - ⚡️ Fun fact: I'm a huge fan of Multi Threading (All the things that happens only in Prod ) & Security Concepts.
 </p>
 <h3 align="center">Have a nice day!</h3>
