@@ -1,19 +1,19 @@
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png" width="150" height="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" width="150" height="150">
 
 ### Hello { You } 👋
 
-#### I'm an Enterprise Architect ( I Code ).
+#### I'm a Senior Solution Designer / Architect working in Australia.
 
--   🏢 I'm currently working at **A great company :)**
--   ⚙️ I use daily: `AWS`, `Java`, `Go lang`, `React`, `Angular`, `Python` & `Many more ...`
--   🌍 I'm mostly active within the **AWS, Architecture & Dev Community**
--   💬 Ping me about **Architecture**, **Clean code**, **Development**, **Design thinking**
--   📫 Reach me: [shivaji.byrapaneni@gmail.com](mailto:shivaji.byrapaneni@gmail.com)
--   ⚡️ Fun fact: I'm a huge fan of Multi Threading (All the things that happens only in Prod ) & Security Concepts.
+- 🏢 I'm currently working at **A great company :)**
+- ⚙️ I use daily: `AWS`,  `Java`,  `Go lang`,  `React`, `Angular`,  `Python` &  `Few more ...`
+- 🌍 I'm mostly active within the **AWS,  Architecture & Dev Community**
+- 💬 Ping me about **Architecture**, **Clean code**,  **Development**, **Design thinking**
+- 📫 Reach me: [shivaji.byrapaneni@gmail.com](mailto:shivaji.byrapaneni@gmail.com)
+- ⚡️ Fun fact: I'm a huge fan of Multi Threading (All the things that happens only in Prod ) & Security Concepts.
 
-## My Skill Set
-
+## My Skill Set  
 <table><tr><td valign="top">
 
 <div align="center">  
@@ -55,16 +55,14 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 </div>
 and few more... :) 
-</td></tr></table>
+</td></tr></table> 
 
-## Github Usage ~ Status
-
-![Shivaji's github stats](https://github-readme-stats.vercel.app/api?username=byrash&show_icons=true&hide_border=true&theme=dark&private=true)
+## Github Usage ~ Status 
+![Shivaji's github stats](https://github-readme-stats.vercel.app/api?username=byrash&show_icons=true&hide_border=true&theme=dark&private=true)   
 
 ![Shivaji's profile views](https://komarev.com/ghpvc/?username=byrash&&style=flat-square")
 
 ## Language Usage ~ Status
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrash&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
 </p>
