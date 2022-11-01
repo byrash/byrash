@@ -12,7 +12,7 @@ f.write(f'''
 
 ### Hello {{ You }} 👋
 
-#### I'm a Senior Solution Designer / Architect working in Australia.
+#### I'm an Enterprise Architect (I Code).
 
 - 🏢 I'm currently working at **A great company :)**
 - ⚙️ I use daily: `AWS`,  `Java`,  `Go lang`,  `React`, `Angular`,  `Python` &  `Few more ...`
