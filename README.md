@@ -7,7 +7,6 @@
 #### I'm an Enterprise Architect (I Code).
 
 - 🏢 I'm currently working at **A great company :)**
-- ⚙️ I use daily: `AWS`,  `Java`,  `Go lang`,  `React`, `Angular`,  `Python` &  `Few more ...`
 - 🌍 I'm mostly active within the **AWS,  Architecture & Dev Community**
 - 💬 Ping me about **Architecture**, **Clean code**,  **Development**, **Design thinking**
 - 📫 Reach me: [shivaji.byrapaneni@gmail.com](mailto:shivaji.byrapaneni@gmail.com)
