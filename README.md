@@ -4,7 +4,7 @@
 
 ### Hello { You } 👋
 
-#### I'm an Enterprise Architect (I Code).
+#### I'm an Enterprise Architect.
 
 - 🏢 I'm currently working at **A great company :)**
 - ⚙️ I use daily: `AWS`,  `Java`,  `Go lang`,  `React`, `Angular`,  `Python` &  `Few more ...`
