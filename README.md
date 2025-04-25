@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png" width="150" height="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" width="150" height="150">
 
 ### Hello { You } 👋
 
-#### I'm an Enterprise Architect.
+#### I'm an Enterprise Architect & Engineering Leader.
 
 - 🏢 I'm currently working at **A great company :)**
 - 🌍 I'm mostly active within the **Leadership, Architecture & Dev Community**
